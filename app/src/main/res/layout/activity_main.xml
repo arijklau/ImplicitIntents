@@ -9,9 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.android.implicitintents.MainActivity"
     android:orientation="vertical">
-
-    <!-- TESTING GIT -->
-
+    
     <!--Open Website EditText -->
     <EditText
         android:id="@+id/website_edittext"
